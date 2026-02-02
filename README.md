@@ -4,6 +4,7 @@
 
 Hey shahdmah!
 
+
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
 Remember, it's self-paced so feel free to take a break! ☕️
@@ -12,5 +13,10 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
+# Hello! I'm Shahd Salama.
+I'm a senior Computer Science student passionate about Front-End development and learning GitHub.
+
+
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
 
