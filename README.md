@@ -13,7 +13,7 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
-# Hello! I'm Shahd Salama
+# Hello! I'm Shahd Salama.
 I'm a senior Computer Science student passionate about Front-End development and learning GitHub.
 
 
